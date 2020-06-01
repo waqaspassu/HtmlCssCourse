@@ -1,0 +1,29 @@
+.outer-container{
+	/*position: static;*/
+
+	height: 200vh;
+
+	background-color: orange;
+	padding: 10px;
+}
+.container{
+	background-color: yellow;
+	padding: 20px;
+}
+.child-one{
+	opacity: 0.2;
+	position: sticky;
+
+	width: 100%;
+	left:200px;
+	top: 0;
+	background-color: blue;
+	color: white;
+}
+.child-two{
+	background-color: purple;
+
+}
+.child-three{
+	background-color: violet;
+}

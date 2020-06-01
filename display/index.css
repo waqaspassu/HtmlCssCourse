@@ -5,6 +5,7 @@ body{
 .container{
 	padding: 20px;
 	background-color: red;
+	margin: 20px
 
 
 }
@@ -16,23 +17,46 @@ body{
 }
 h5{
 	display: inline-block;
-	background-color: green;
+	background-color: orange;
 	width: 30%;
 	height: 200px;
 	margin-left: 20px;
+}
+.header1{	
+	display: inline-block;
+	background-color: violet;
+	width: 30%;
+	height: 200px;
+
+
+}
+.header2{	
+	display: inline-block;
+	background-color: coral;
+	width: 30%;
+	height: 200px;
 }
 p{
-	background-color: yellow;
+	display:inline-block;
+	background-color:tan;
 	width: 30%;
 	height: 200px;
-	margin-left: 20px;
+	margin-left:20px;
 }
 
-a{
+h4{
 	display: inline-block;
-	background-color: blue;
+	background-color: lightblue;
 	width: 30%;
 	height: 200px;
-	margin-left: 20px;
+
+
+
+}
+.header3{
+	display: inline-block;
+	background-color:gold;
+	width: 30%;
+	height: 200px;
 
 }
